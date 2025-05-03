@@ -107,24 +107,6 @@
       "price": 429.99,
       "display": "4.7 inch Retina IPS LCD",
       "color": "Red"
-    },
-    {
-      "model": "iPhone 13 mini (Refurbished)",
-      "price": 549.99,
-      "display": "5.4 inch Super Retina XDR",
-      "color": "Midnight"
-    },
-    {
-      "model": "iPhone 14 (Used)",
-      "price": 649.99,
-      "display": "6.1 inch Super Retina XDR",
-      "color": "Starlight"
-    },
-    {
-      "model": "This ia test",
-      "price": 69.99,
-      "display": "6.1 inch Super Retina XDR",
-      "color": "Test"
     }
   ]
 }
