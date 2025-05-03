@@ -119,6 +119,12 @@
       "price": 649.99,
       "display": "6.1 inch Super Retina XDR",
       "color": "Starlight"
+    },
+    {
+      "model": "Test",
+      "price": 649.99,
+      "display": "6.1 inch Super Retina XDR",
+      "color": "Starlight"
     }
   ]
 }
