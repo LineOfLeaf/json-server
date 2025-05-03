@@ -1,13 +1,124 @@
 {
-  "posts": [
-    { "id": "1", "title": "a title" },
-    { "id": "2", "title": "another title" }
-  ],
-  "comments": [
-    { "id": "1", "text": "a comment about post 1", "postId": "1" },
-    { "id": "2", "text": "another comment about post 1", "postId": "1" }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "phones": [
+    {
+      "model": "iPhone 13 mini",
+      "price": 699.99,
+      "display": "5.4 inch Super Retina XDR",
+      "color": "Pink"
+    },
+    {
+      "model": "iPhone 13",
+      "price": 799.99,
+      "display": "6.1 inch Super Retina XDR",
+      "color": "Blue"
+    },
+    {
+      "model": "iPhone 13 Pro",
+      "price": 999.99,
+      "display": "6.1 inch Super Retina XDR with ProMotion",
+      "color": "Sierra Blue"
+    },
+    {
+      "model": "iPhone 13 Pro Max",
+      "price": 1099.99,
+      "display": "6.7 inch Super Retina XDR with ProMotion",
+      "color": "Alpine Green"
+    },
+    {
+      "model": "iPhone 14",
+      "price": 799.99,
+      "display": "6.1 inch Super Retina XDR",
+      "color": "Purple"
+    },
+    {
+      "model": "iPhone 14 Plus",
+      "price": 899.99,
+      "display": "6.7 inch Super Retina XDR",
+      "color": "Yellow"
+    },
+    {
+      "model": "iPhone 14 Pro",
+      "price": 1099.99,
+      "display": "6.1 inch Super Retina XDR with ProMotion",
+      "color": "Space Black"
+    },
+    {
+      "model": "iPhone 14 Pro Max",
+      "price": 1199.99,
+      "display": "6.7 inch Super Retina XDR with ProMotion",
+      "color": "Deep Purple"
+    },
+    {
+      "model": "iPhone 15",
+      "price": 899.99,
+      "display": "6.1 inch Super Retina XDR",
+      "color": "Blue"
+    },
+    {
+      "model": "iPhone 15 Plus",
+      "price": 999.99,
+      "display": "6.7 inch Super Retina XDR",
+      "color": "Pink"
+    },
+    {
+      "model": "iPhone 15 Pro",
+      "price": 1199.99,
+      "display": "6.1 inch Super Retina XDR with ProMotion",
+      "color": "Natural Titanium"
+    },
+    {
+      "model": "iPhone 15 Pro Max",
+      "price": 1299.99,
+      "display": "6.7 inch Super Retina XDR with ProMotion",
+      "color": "White Titanium"
+    },
+    {
+      "model": "iPhone 16e",
+      "price": 799.99,
+      "display": "6.1 inch Super Retina XDR",
+      "color": "Starlight"
+    },
+    {
+      "model": "iPhone 16",
+      "price": 949.99,
+      "display": "6.3 inch Super Retina XDR",
+      "color": "Green"
+    },
+    {
+      "model": "iPhone 16 Plus",
+      "price": 1049.99,
+      "display": "6.9 inch Super Retina XDR",
+      "color": "Yellow"
+    },
+    {
+      "model": "iPhone 16 Pro",
+      "price": 1249.99,
+      "display": "6.3 inch Super Retina XDR with ProMotion",
+      "color": "Graphite"
+    },
+    {
+      "model": "iPhone 16 Pro Max",
+      "price": 1349.99,
+      "display": "6.9 inch Super Retina XDR with ProMotion",
+      "color": "Gold"
+    },
+    {
+      "model": "iPhone SE (2022)",
+      "price": 429.99,
+      "display": "4.7 inch Retina IPS LCD",
+      "color": "Red"
+    },
+    {
+      "model": "iPhone 13 mini (Refurbished)",
+      "price": 549.99,
+      "display": "5.4 inch Super Retina XDR",
+      "color": "Midnight"
+    },
+    {
+      "model": "iPhone 14 (Used)",
+      "price": 649.99,
+      "display": "6.1 inch Super Retina XDR",
+      "color": "Starlight"
+    }
+  ]
 }
